@@ -1,2 +1,0 @@
-Header add Access-Control-Allow-Origin "http://test-jbs.sdzhuanbang.com"
-Header add Access-Control-Allow-Methods "GET, POST, OPTIONS"
